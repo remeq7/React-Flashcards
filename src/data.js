@@ -19,6 +19,11 @@ const questions = [
     question: "Jak działa JSX?",
     text: "Kompilator JSX, np. Babel parsuje kod JavaScript (JSX), znajduje wszystkie odwołania do tagów html i zastępuje je wywołaniem funkcji React.createElement lub w przypadku, gdy nazwa tagu jest z dużej litery, kompilator używa zmiennej komponentu.",
   },
+  {
+    id: 5,
+    question: "Test netlify?",
+    text: "Netlify.com, najlepsza darmowa usługa hostingowa na świecie ",
+  },
 ];
 
 export default questions;
