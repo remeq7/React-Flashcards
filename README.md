@@ -54,4 +54,4 @@ const questions = [
 ## View
 
 ![Alt text](screen1.png "Title")
-![Alt text](screen2.png "Title")
+![Alt text](screen2.png "Title2")
